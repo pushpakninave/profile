@@ -1,3 +1,2 @@
 ### framework - Reactjs
-### link:
-https://pushpakninave.github.io/profile/
+### link: https://pushpakninave.github.io/profile/

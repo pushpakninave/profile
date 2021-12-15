@@ -48,7 +48,7 @@ const App=()=> {
         random: true,
         anim: {
           enable: false,
-          speed: 40,
+          speed: 30,
           size_min: 0.1,
           sync: false
         }
@@ -62,7 +62,7 @@ const App=()=> {
       },
       move: {
         enable: true,
-        speed: 4,
+        speed: 3,
         direction: "none",
         random: false,
         straight: false,

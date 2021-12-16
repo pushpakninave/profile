@@ -53,7 +53,7 @@ const Home =()=>{
             <a href="https://github.com/pushpakninave" target='_blank'>
                 <Icon className="icn" icon="bytesize:github" />
             </a>
-            <a href="https://stackoverflow.com/users/15220760/brat?tab=profile" target='_blank'>
+           <a href="https://stackoverflow.com/users/15220760/brat?tab=profile" target='_blank'>
             <Icon className="icn" icon="simple-icons:stackoverflow" inline={true} />
             </a>
             </div>

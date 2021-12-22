@@ -44,7 +44,7 @@ const App=()=> {
         }
       },
       size: {
-        value: 3,
+        value: 3.5,
         random: true,
         anim: {
           enable: false,

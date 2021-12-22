@@ -9,7 +9,7 @@ const App=()=> {
     <Particles params={{
     particles: {
       number: {
-        value: 90,
+        value: 65,
         density: {
           enable: true,
           value_area: 800

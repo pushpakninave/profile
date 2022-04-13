@@ -47,8 +47,8 @@ const Home =()=>{
             <a href="https://aliencodes.hashnode.dev/" target='_blank'> 
             <Icon className="icn" icon="simple-icons:hashnode" />
             </a>
-            <a href="" target='_blank'>
-                <Icon className="icn" icon="cib:discord" />
+            <a href="https://leetcode.com/Pushpakninave/" target='_blank'>
+                <Icon className="icn" icon="simple-icons:leetcode" />
             </a>
             <a href="https://github.com/pushpakninave" target='_blank'>
                 <Icon className="icn" icon="bytesize:github" />

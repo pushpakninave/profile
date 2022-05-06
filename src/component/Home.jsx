@@ -33,7 +33,11 @@ const Home =()=>{
                     />
                 </div> 
                 <div className="b_ton">
+<<<<<<< HEAD
                     <a target='_blank' href="https://drive.google.com/file/d/1L8SEJImO6cH9_qirVsZZSJdP2L8ssIfR/view?usp=sharing" download>
+=======
+                    <a target='_blank' href="https://drive.google.com/file/d/12W_g5QRVpUThXMFzgpFT6ggCV_M-v4p0/view?usp=sharing" download>
+>>>>>>> e1e87c7771d2f268b8f79ffb560152c9c1dd5b09
                     <button><Icon icon="akar-icons:cloud-download" inline={true} /> cv</button>
                     </a>
                 </div>   

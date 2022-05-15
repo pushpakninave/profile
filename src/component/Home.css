@@ -21,7 +21,7 @@ margin: 0 10%;
     display: flex;
     justify-content: center; 
 }
-button{
+.left_box button{
     margin-top: 20px;
     background-color: #1BA3C5;
     border: none;
@@ -61,6 +61,12 @@ button:hover{
     font-family:monospace;
     color: #FF3A16;
     font-weight: 700;
+}
+.mailBox{
+    font-size: 30px;
+}
+.b_ton button{
+    font-size: 15px;
 }
 @media screen and (max-width:900px) {
     .Home{

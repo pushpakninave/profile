@@ -107,7 +107,7 @@ const App=()=> {
           duration: 0.4
         },
         push: {
-          particles_nb: 4
+          particles_nb: 0
         },
         remove: {
           particles_nb: 2

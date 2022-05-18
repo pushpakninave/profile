@@ -54,20 +54,23 @@ const Home = () => {
 
                 <div className="icon_box">
 
-                    <a href="https://www.linkedin.com/in/pushpak-ninave-a17328192/" target='_blank'>
+                    <a href="https://www.linkedin.com/in/pushpak-ninave-a17328192/" title="Linkedin" target='_blank'>
                         <Icon className="icn" icon="brandico:linkedin-rect" />
                     </a>
-                    <a href="https://aliencodes.hashnode.dev/" target='_blank'>
+                    <a href="https://aliencodes.hashnode.dev/" title="Tech-blog" target='_blank'>
                         <Icon className="icn" icon="simple-icons:hashnode" />
                     </a>
-                    <a href="https://leetcode.com/Pushpakninave/" target='_blank'>
+                    <a href="https://leetcode.com/Pushpakninave/" title="competative programming" target='_blank'>
                         <Icon className="icn" icon="simple-icons:leetcode" />
                     </a>
-                    <a href="https://github.com/pushpakninave" target='_blank'>
+                    <a href="https://github.com/pushpakninave" title="github" target='_blank'>
                         <Icon className="icn" icon="bytesize:github" />
                     </a>
-                    <a href="https://stackoverflow.com/users/15220760/brat?tab=profile" target='_blank'>
+                    {/* <a href="https://stackoverflow.com/users/15220760/brat?tab=profile" title="stackoverflow" target='_blank'>
                         <Icon className="icn" icon="simple-icons:stackoverflow" inline={true} />
+                    </a> */}
+                    <a href="https://developers.google.com/profile/u/pushpakninave" title="GDG" target='_blank'>
+                    <Icon  className="icn" icon="logos:google-developers" width="35" />
                     </a>
                 </div>
             </div>

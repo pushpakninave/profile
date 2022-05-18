@@ -41,9 +41,9 @@ const Home = () => {
                     I make wild out a limb ideas as a developer.
                     Java is one of my most prefered language of all. I am inquisitive of knowing backend architecture of any microservice platform.     
                     Talking about my tech stack, i like building web-based applications using frameworks like
-                    spring boot and microservices.      
+                    ReactJs, Spring Boot and microservices.      
                 </p>
-                <a className="mailBox" href=""><Icon icon="line-md:email-twotone-alt" color="#c53c1b" /></a>
+                <a className="mailBox" href="mailto: pushpakninave.jee@gmail.com"><Icon icon="line-md:email-twotone-alt" color="#c53c1b" /></a>
                 <div className="b_ton">
                     <a target='_blank' href="https://drive.google.com/file/d/1L8SEJImO6cH9_qirVsZZSJdP2L8ssIfR/view?usp=sharing" download>
                         <button title="Resume"><Icon icon="akar-icons:cloud-download" inline={true} /></button>
